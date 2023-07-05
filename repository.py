@@ -2,8 +2,7 @@ data_map = {
     'Frequencia': {
         'Data': 'data',
         'Horário': 'horario',
-        'Aluno': 'aluno',
-        'Telefone': 'telefone',
+        'Aluno': 'nome',
         'Pacote': 'pacote',
         'Professor': 'professor',
         'Tipo de Aula': 'tipo_aula',
@@ -16,7 +15,6 @@ data_type = {
         'data': str,
         'horario': str,
         'aluno': str,
-        'telefone': str,
         'pacote': str,
         'professor': str,
         'tipo_aula': str,
